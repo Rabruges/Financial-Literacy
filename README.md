@@ -1,4 +1,4 @@
-# Financial Literacy Analysis with Machine Learning
+# Financial Literacy Score with Machine Learning
 
 The Financial Literacy Score is a tool developed by the OECD and allows to measure the financial literacy level of a person. The maximum score is 21 (a combination of a maximum of 7 for knowledge, 9 for behaviour and 5 for attitudes). 
 
